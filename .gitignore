@@ -26,8 +26,6 @@ dist-ssr
 /.pnp
 .pnp.js
 
-# testing
-/coverage
 
 # production
 /build
